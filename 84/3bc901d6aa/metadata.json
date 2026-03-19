@@ -1,0 +1,28 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "843bc901d6aa",
+  "strategy": "manual-commit",
+  "branch": "2-gusessing-game",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "guessing-game/README.md",
+    "guessing-game/target/.rustc_info.json",
+    "guessing-game/target/flycheck0/stderr",
+    "guessing-game/target/flycheck0/stdout"
+  ],
+  "sessions": [
+    {
+      "metadata": "/84/3bc901d6aa/0/metadata.json",
+      "transcript": "/84/3bc901d6aa/0/full.jsonl",
+      "content_hash": "/84/3bc901d6aa/0/content_hash.txt",
+      "prompt": "/84/3bc901d6aa/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 47110,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 1920,
+    "output_tokens": 460,
+    "api_call_count": 4
+  }
+}

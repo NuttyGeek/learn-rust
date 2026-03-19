@@ -1,0 +1,37 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "843bc901d6aa",
+  "session_id": "ses_2f9bf6223ffeK3zXBQpQd1R0qK",
+  "strategy": "manual-commit",
+  "created_at": "2026-03-19T13:20:50.089073828Z",
+  "branch": "2-gusessing-game",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "guessing-game/README.md",
+    "guessing-game/target/.rustc_info.json",
+    "guessing-game/target/flycheck0/stderr",
+    "guessing-game/target/flycheck0/stdout"
+  ],
+  "agent": "OpenCode",
+  "model": "glm-5",
+  "turn_id": "6e44d07a1830",
+  "token_usage": {
+    "input_tokens": 47110,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 1920,
+    "output_tokens": 460,
+    "api_call_count": 4
+  },
+  "session_metrics": {
+    "turn_count": 1
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-03-19T13:20:50.065799997Z",
+    "agent_lines": 20,
+    "human_added": 155,
+    "human_modified": 16,
+    "human_removed": 0,
+    "total_committed": 191,
+    "agent_percentage": 10.471204188481675
+  }
+}
